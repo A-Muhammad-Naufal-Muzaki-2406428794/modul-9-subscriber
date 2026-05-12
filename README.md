@@ -9,3 +9,5 @@ String tersebut merupakan *Connection URI* (Uniform Resource Identifier) yang di
 * **`guest` pertama:** Merupakan *username* (kredensial login) default yang digunakan untuk mengakses RabbitMQ.
 * **`guest` kedua:** Merupakan *password* default yang digunakan untuk otentikasi *username* tersebut.
 * **`localhost:5672`:** Menunjukkan lokasi dan *port* di mana server RabbitMQ berjalan. `localhost` berarti server berjalan di komputer lokal kita sendiri, dan `5672` adalah *port* default yang didengarkan (listen) oleh RabbitMQ untuk menerima koneksi AMQP.
+
+![Simulation Slow Subscriber](images/image1.png)
